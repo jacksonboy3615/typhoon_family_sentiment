@@ -102,5 +102,5 @@ Some people used machine learning for improved analysis of Korean reviews.
 This will be updated once I have a better understanding of applying machine learning.
 
 🔗 Connect with Me
-If you’d like to discuss data analysis, Python, or Marvel shows 😄
-Find me on LinkedIn[https://www.linkedin.com/in/jae-hwan-kim-274190100/] or contact me via email: jkim3615@gmail.com!
+If you’d like to discuss data analysis, Python, or TV series 😄
+Find me on [LinkedIn](https://www.linkedin.com/in/jae-hwan-kim-274190100/) or contact me via email: jkim3615@gmail.com!
