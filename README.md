@@ -83,7 +83,13 @@ Combining both lexicon-based and contextual models yields a more balanced result
 
 🌐 Visualization Preview
 
-(Insert Power BI sentiment chart / comparison graph here)
+<img width="1161" height="651" alt="Slide 1" src="https://github.com/user-attachments/assets/d780e926-7225-41ba-83b7-8124349edfdb" />
+<img width="1160" height="647" alt="Slide 2" src="https://github.com/user-attachments/assets/2d907492-e4fa-42c8-b20a-b1b6846b4e5e" />
+<img width="1160" height="646" alt="Slide 3" src="https://github.com/user-attachments/assets/95e9a33f-6116-4f7b-bc9a-4526fb94e286" />
+<img width="1160" height="646" alt="Slide 4" src="https://github.com/user-attachments/assets/6ebffe01-ffa2-406a-899a-4ee9331e5da4" />
+<img width="1160" height="647" alt="Slide 5" src="https://github.com/user-attachments/assets/ae8489bd-e930-44c6-b57f-846209c114c9" />
+<img width="1158" height="647" alt="Slide 6" src="https://github.com/user-attachments/assets/84c5c331-c7c3-44f9-81c5-351b8cc693b5" />
+
 
 Figure 1: Comparison of GPT and VADER sentiment classification results for Typhoon Family (2025).
 
@@ -91,13 +97,10 @@ Figure 1: Comparison of GPT and VADER sentiment classification results for Typho
 
 Test with other Korean entertainment datasets to validate consistency.
 
-Incorporate native Korean NLP models (e.g., KoBERT, KoELECTRA) for comparison.
+Some people used machine learning for improved analysis of Korean reviews.
 
-Publish follow-up analysis on multilingual emotion interpretation.
+This will be updated once I have a better understanding of applying machine learning.
 
-👩‍💻 Author
-
-[Your Name]
-📧 [Your Email]
-🔗 [LinkedIn Profile Link]
-💻 [Portfolio / GitHub Profile]
+🔗 Connect with Me
+If you’d like to discuss data analysis, Python, or Marvel shows 😄
+Find me on LinkedIn[https://www.linkedin.com/in/jae-hwan-kim-274190100/] or contact me via email: jkim3615@gmail.com!
