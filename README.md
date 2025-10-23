@@ -1,11 +1,12 @@
-📊 Typhoon Family Sentiment Analysis
-🧠 Comparing GPT and VADER Models on Korean Drama Reviews
-📝 Overview
+# 📊 Typhoon Family Sentiment Analysis
+## 🧠 Comparing GPT and VADER Models on Korean Drama Reviews
+
+### 📝 Overview
 
 This project presents a sentiment analysis of the newly released K-Drama Typhoon Family (태풍상사).
 The main goal is to compare the accuracy, contextual understanding, and linguistic limitations between two sentiment analysis models — VADER and GPT — when analyzing Korean viewers’ reviews translated using DeepL.
 
-📁 Dataset
+### 📁 Dataset
 
 Source: Viewer reviews collected from Naver reviews and community discussions until October 22nd, 2025. (Link: https://program.naver.com/p/36219184/contents)
 
@@ -13,7 +14,7 @@ Language: Korean (translated into English via DeepL).
 
 Number of Reviews: 125
 
-⚙️ Tools & Libraries
+### ⚙️ Tools & Libraries
 
 Python: Pandas, Numpy
 
@@ -25,7 +26,7 @@ DeepL Translator API
 
 Power BI for visualization
 
-🔍 Methodology
+### 🔍 Methodology
 
 Data Collection: Crawled viewer reviews using Selenium and exported them as CSV files.
 
@@ -41,7 +42,7 @@ Comparison: Analyzed discrepancies between two models.
 
 Visualization: Illustrated sentiment distributions using Power BI dashboards.
 
-📈 Results
+### 📈 Results
 Model	Positive	Neutral	Negative	Vague
 GPT	93.6%	0.8%	4.8%	0.8% 
 VADER	73.6%	19.2%	7.2% N/A
@@ -68,12 +69,12 @@ Pro(s):
 
 1. Free DeepL API
 
-Cons:
+Con(s):
 
 1. Takes more steps than GPT
 2. With the DeepL Python Package, some reviews were not translated
 
-💡 Key Insights
+### 💡 Key Insights
 
 Translation accuracy directly impacts sentiment outcomes.
 
@@ -81,7 +82,7 @@ GPT excels at nuanced interpretation, but cultural emotion markers still challen
 
 Combining both lexicon-based and contextual models yields a more balanced result.
 
-🌐 Visualization Preview
+### 🌐 Visualization Preview
 
 <img width="1161" height="651" alt="Slide 1" src="https://github.com/user-attachments/assets/d780e926-7225-41ba-83b7-8124349edfdb" />
 <img width="1160" height="647" alt="Slide 2" src="https://github.com/user-attachments/assets/2d907492-e4fa-42c8-b20a-b1b6846b4e5e" />
@@ -93,7 +94,7 @@ Combining both lexicon-based and contextual models yields a more balanced result
 
 Figure 1: Comparison of GPT and VADER sentiment classification results for Typhoon Family (2025).
 
-🧩 Next Steps
+### 🧩 Upcoming Plans
 
 Test with other Korean entertainment datasets to validate consistency.
 
@@ -101,6 +102,6 @@ Some people used machine learning for improved analysis of Korean reviews.
 
 This will be updated once I have a better understanding of applying machine learning.
 
-🔗 Connect with Me
+### 🔗 Connect with Me
 If you’d like to discuss data analysis, Python, or TV series 😄
 Find me on [LinkedIn](https://www.linkedin.com/in/jae-hwan-kim-274190100/) or contact me via email: jkim3615@gmail.com!
