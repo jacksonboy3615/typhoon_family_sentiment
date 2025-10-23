@@ -43,9 +43,12 @@ Comparison: Analyzed discrepancies between two models.
 Visualization: Illustrated sentiment distributions using Power BI dashboards.
 
 ### 📈 Results
-Model	Positive	Neutral	Negative	Vague
-GPT	93.6%	0.8%	4.8%	0.8% 
-VADER	73.6%	19.2%	7.2% N/A
+
+| Model | Positive | Neutral | Negative | Vague |
+| ------- | --- | --- | --- | --- |
+| GPT | 93.6% | 0.8% | 4.8% | 0.8% |
+| ------- | --- | --- | --- | --- |
+| VADER | 73.6% | 19.2% | 7.2% | N/A |
 
 Both models indicate Typhoon Family received a highly positive reception from viewers.
 However, the interpretation depth differed significantly between GPT and VADER.
